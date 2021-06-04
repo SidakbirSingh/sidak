@@ -1,0 +1,29 @@
+Hexadecimal => Hexa + decimal number system
+6 + 10 = 16 numbers
+0 to 9
+a = 10
+b = 11
+c = 12
+d = 13
+e = 14
+f = 15
+----------- 16 numbers ----------
+#ca12de => 12*(16 power 5)+  10* 16 power 4 + 1 * 16 power 3 + 2 + 16 power 2 + 13* 16 power 1 + 14*1
+#fff
+#ffffff
+
+
+Binary => 0 and 1 => Bi means 2
+
+Number system =>
+10 numbers = 0 to 9
+Deci = 10
+
+Decimal number system
+56 = 50 + 6
+= 5 * (10 power 1) + 6 * (10 power 0)
+
+
+Powers/Exponents => 2
+10 power 2 = 10 * 10
+10 power 3 = 10 * 10 * 10
